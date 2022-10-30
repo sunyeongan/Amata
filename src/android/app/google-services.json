@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "670744307906",
+    "project_id": "amata-fdab0",
+    "storage_bucket": "amata-fdab0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670744307906:android:303b498cda3658bf0d735b",
+        "android_client_info": {
+          "package_name": "com.example.amata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670744307906-16um2qp0eog871med253eoq4p2oqpaon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHk-1Fac0syYMz4DcLj1BxGw6LiS3Y_7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670744307906-16um2qp0eog871med253eoq4p2oqpaon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
