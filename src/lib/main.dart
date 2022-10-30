@@ -1,8 +1,13 @@
 import 'package:amata/todo_sample.dart';
 import 'package:flutter/material.dart';
-
 import 'Screen/todd_detail_screen.dart';
-void main() => runApp(const MyApp());
+import 'Screen/login_screen.dart';
+
+import 'package:flutter/cupertino.dart';
+import 'package:firebase_auth/firebase_auth.dart';
+import 'package:google_sign_in/google_sign_in.dart';
+
+void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget{
   const MyApp({Key? key}) : super(key: key);
@@ -10,7 +15,8 @@ class MyApp extends StatelessWidget{
   @override
   Widget build(BuildContext context){
     return MaterialApp(
-      home : HomePage(),
+      debugShowCheckedModeBanner: false,
+      home : LoginScreen(),
     );
   }
 }
