@@ -9,7 +9,7 @@
 - 내가 가고싶은 여행지에서의 todo도 기록
 ### 개발환경
 ---
-- kotlin or flutter
+- flutter
 - firebase(로그인 기능구현)
 ### 앞으로 구현할 기능  
 ---
@@ -27,3 +27,7 @@
 --- 
 [참고](https://dribbble.com/shots/17458326-Tracking-app)
 ![image](https://user-images.githubusercontent.com/44018024/179661499-c16cc5c5-54e4-497b-ba34-617d16d49b96.png)
+
+### 구현
+
+<img width="584" alt="image" src="https://user-images.githubusercontent.com/44018024/203554569-7d0e94f2-1d92-4b7a-898f-a892197c40bd.png">
